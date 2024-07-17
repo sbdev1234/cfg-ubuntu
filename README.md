@@ -1,5 +1,5 @@
 # cfg-ubuntu
-Boilerplate configuration for new Ubuntu (Debian) distros & dev containers. Use this template repo (see GitHub) as a start-point for your own.
+My configuration for new Ubuntu (Debian) distros & dev containers. Use the `tp-cfg-ubuntu` template repo (see GitHub) as your start-point.
 
 ## About
 
